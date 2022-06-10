@@ -1,1 +1,10 @@
-
+  <ID>1</ID>
+  <summary>description</summary>
+  <STR>123</STR>
+  <Actual_result>Oops</Actual_result>
+  <Expected_result>Wow</Expected_result>
+  <Environment>Windows</nvironment>
+  <Build>1.1</Build>
+  <Severity>Trivial</Severity>
+  <Priority>High</Priority>
+  <Attachments>img.png</Attachments>
